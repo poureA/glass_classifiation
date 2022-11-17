@@ -1,2 +1,2 @@
 # glass_classifiation
-downloaded from kaggle
+csv file downloaded from kaggle
